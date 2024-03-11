@@ -1,0 +1,25 @@
+h1 {
+    front-size: 20px;
+    color: rgb(54, 7, 18);
+
+}
+
+label {
+    background-color: rgb(180, 81, 106)
+}
+
+#userlabel {
+    front-size: 20px;
+}
+
+#passlabel {
+    front-size: 20px;
+}
+
+.lableClass {
+    front-size: 20px;
+    color: rgb(143, 52, 113);
+}
+body {
+    background-color: rgb(97, 135, 206);
+}
